@@ -1,3 +1,3 @@
-Happy Birthday
+# Happy Birthday
 
-A Happy Birthday animation design TEMPLATE in CSS3, HTML5.
+An easy to deploy, Happy Birthday animation design TEMPLATE.
